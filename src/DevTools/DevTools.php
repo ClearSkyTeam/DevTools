@@ -22,7 +22,7 @@ use FolderPluginLoader\FolderPluginLoader;
 use pocketmine\command\Command;
 use pocketmine\command\CommandExecutor;
 use pocketmine\command\CommandSender;
-use pocketmine\network\protocol\Info;
+use pocketmine\network\mcpe\protocol\ProtocolInfo;
 use pocketmine\permission\Permission;
 use pocketmine\Player;
 use pocketmine\plugin\Plugin;
